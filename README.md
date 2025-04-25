@@ -36,6 +36,9 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 
 ### 🎙️ Talks & Conferences
 
+- 🧠 [Fields Institute 2023: Detecting Anomalies in Cryptocurrency Networks](http://www.fields.utoronto.ca/talks/Detection-anomalies-digital-markets-using-graph-data-example-cryptocurrency-markets-and )
+  A dive into detecting weirdness in crypto using graphs and a bit of elegant math.
+
 - 🤯 [DevOps Days Madrid 2023](https://www.youtube.com/watch?v=1OYnSOXveIk)
   On failing, learning, and real-world DevOps practices.
   

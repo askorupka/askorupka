@@ -36,11 +36,11 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 
 ### 🎙️ Talks & Conferences
 
-- 📦 [HashiTalks 2024 – Scaling IaC](https://www.youtube.com/watch?v=STZh564DPt8)  
-  Best practices in organizing Terraform code and workspaces.
-
 - 🤯 [DevOps Days Madrid 2023](https://www.youtube.com/watch?v=1OYnSOXveIk)
   On failing, learning, and real-world DevOps practices.
+  
+- 📦 [HashiTalks 2024 – Scaling IaC](https://www.youtube.com/watch?v=STZh564DPt8)  
+  Best practices in organizing Terraform code and workspaces.
 
 - 🔐 [HashiTalks 2025 – Scaling Secrets Management with Vault](https://www.youtube.com/watch?v=k2ViIKiEyaI)  
   Zero-trust approach, best practices & a live demo.

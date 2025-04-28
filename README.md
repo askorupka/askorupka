@@ -29,10 +29,10 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 ## 🔗 Links & Lore
 
 - 📝 [Personal blog on Medium](https://medium.com/@agata.skorupka) – DevOps, thoughts, and grinning metaphors  
-- 🪖 [My military belt of certifications (LinkedIn)](https://www.linkedin.com/in/agataskorupka/details/certifications/)  
-  **AWS**: SAA, SA Pro, Security, Developer, SysAdmin  
-  **Terraform**: Associate, Authoring & Operations Pro  
-  **Kubernetes**: CKA, CKAD  
+- 🪖 [My military belt of certifications (LinkedIn)](https://www.linkedin.com/in/agataskorupka/details/certifications/) — AWS, Terraform, Kubernetes — battle-tested and badge-approved.
+    🏹 AWS: SAA, SA Pro, Security, Developer, SysAdmin
+    🛠 Terraform: Associate, Authoring & Operations Pro
+    ☸️ Kubernetes: CKA, CKAD  
 
 ### 🎙️ Talks & Conferences
 

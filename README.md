@@ -62,7 +62,7 @@ Infrastructure as code, logs as prophecy, and uptime as art.
   A deep dive into multi-container pod patterns.
 
 - 🐳 [Kubernetes Blog – Start Sidecars First](https://kubernetes.io/blog/2025/06/03/start-sidecar-first/)
- How To Avoid Snags.
+  How to avoid snags.
 
 - 🧬 [PLOS ONE Publication – Detecting Anomalies in Graph Networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315849)  
   PhD research on patterns, anomalies, and a bit of mathematical madness.

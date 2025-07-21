@@ -49,7 +49,7 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 - 🔐 [HashiTalks 2025 – Scaling Secrets Management with Vault](https://www.youtube.com/watch?v=k2ViIKiEyaI)  
   Zero-trust approach, best practices & a live demo.
 
-- 💂🏼‍♀️ [DevOps Days London 2025]([https://www.youtube.com/watch?v=1OYnSOXveIk](https://devopsdays.org/events/2025-london/program))
+- 💂🏼‍♀️ [DevOps Days London 2025](https://devopsdays.org/events/2025-london/program)
   Postmortems without blame: Running real, transformative incident reviews.
 
 ### ☀️ Community & Open Source

@@ -49,6 +49,9 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 - 🔐 [HashiTalks 2025 – Scaling Secrets Management with Vault](https://www.youtube.com/watch?v=k2ViIKiEyaI)  
   Zero-trust approach, best practices & a live demo.
 
+- 💂🏼‍♀️ [DevOps Days London 2025]([https://www.youtube.com/watch?v=1OYnSOXveIk](https://devopsdays.org/events/2025-london/program))
+  Postmortems without blame: Running real, transformative incident reviews.
+
 ### ☀️ Community & Open Source
 
 - 🧠 [Google Summer of Code 2024 – The Julia Language](https://summerofcode.withgoogle.com/archive/2024/projects/VsKcPlTV)  
@@ -57,6 +60,9 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 
 - 🐳 [Kubernetes Blog – Multi-Container Pods Overview](https://kubernetes.io/blog/2025/04/22/multi-container-pods-overview/)  
   A deep dive into multi-container pod patterns.
+
+- 🐳 [Kubernetes Blog – Start Sidecars First](https://kubernetes.io/blog/2025/06/03/start-sidecar-first/)
+ How To Avoid Snags.
 
 - 🧬 [PLOS ONE Publication – Detecting Anomalies in Graph Networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315849)  
   PhD research on patterns, anomalies, and a bit of mathematical madness.

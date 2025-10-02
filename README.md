@@ -32,7 +32,6 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 - 🪖 [My military belt of certifications (LinkedIn)](https://www.linkedin.com/in/agataskorupka/details/certifications/) — AWS, Terraform, Kubernetes — battle-tested and badge-approved.
   
   &nbsp;&nbsp;&nbsp;🏹 **AWS**: SAA, SA Pro, Security, Developer, SysAdmin, Machine Learning Engineer, Data Engineer
-  
   &nbsp;&nbsp;&nbsp;🛠 **Terraform**: Associate, Authoring & Operations Pro  
   &nbsp;&nbsp;&nbsp;☸️ **Kubernetes**: CKA, CKAD
 

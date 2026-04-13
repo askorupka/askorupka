@@ -11,7 +11,7 @@ A PhD in the art of making sense of the nonsensical - from unstructured data and
 A fan of the beautiful, the broken, and the bizarre - sometimes all at once.
 
 - 🎓 Mentor of curious minds and reluctant adventurers
-- 🧭 Steering the ship as a head of studies @ Akademia Leona Koźmińskiego
+- 🧭 Steering the ship as a head of studies @ [Akademia Leona Koźmińskiego](https://www.kozminski.edu.pl/)
 - 🧩 Orchestrator of organized chaos
 - 🏗️ Designer of systems - and occasional rewriter of legacy tales
 - 🐧 Fluent in YAML, bash, and existential dread  

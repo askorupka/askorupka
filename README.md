@@ -103,6 +103,16 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 Sometimes the best uptime is found through delightful uncertainty.  
 I build like the Cheshire Cat smiles: quietly, curiously, and occasionally fading into thin air.
 
+## 🧭 Mentoring & Guidance
+
+> “If you don’t know where you are going, any road can take you there.”  
+> — Lewis Carroll
+
+Sometimes the path through code, systems, and careers gets... oddly shaped.  
+I help navigate - through graphs, pipelines, and the quiet chaos in between.
+
+I'm occassionally taking a small group of mentees. Interested? Contact below.
+
 ## 📬 Contact?
 
 > “Would you tell me, please, which way I ought to go from here?”  

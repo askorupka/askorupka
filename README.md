@@ -95,7 +95,7 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 - 🕸️ [Journal of Complex Networks - Unsupervised Framework for Evaluating Structural Node Embeddings of Graphs](https://academic.oup.com/comnet/article-abstract/12/2/cnae003/7612927?login=false)  
   A framework for judging embeddings by how well they preserve the hidden geometry of networks (co-authored).
   
-- 🧩 [Journal of Big Data - Detecting bots in social-networks using node and structural embeddings](https://link.springer.com/article/10.1186/s40537-023-00796-3)
+- 🧩 [Journal of Big Data - Detecting bots in social-networks using node and structural embeddings](https://link.springer.com/article/10.1186/s40537-023-00796-3)  
   Not all users are human - some just pretend better than others. A graph-based approach to spotting bots by the patterns they can’t quite fake (co-authored).
 
 ## 💭 Philosophy

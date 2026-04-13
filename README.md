@@ -47,7 +47,7 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 - 🐍 [Python Data Science Engineer](https://www.kozminski.edu.pl/pl/oferta-edukacyjna/studia-podyplomowe/python-data-science-engineer-e-learning-plus)  
   Teaching machines to see patterns where others see noise.
 
-- ⚙️ [DevOps]([LINK_TUTAJ](https://www.kozminski.edu.pl/pl/oferta-edukacyjna/studia-podyplomowe/devops-administrator-infrastruktury-it-e-learning-plus))  
+- ⚙️ [DevOps](https://www.kozminski.edu.pl/pl/oferta-edukacyjna/studia-podyplomowe/devops-administrator-infrastruktury-it-e-learning-plus)
   Turning chaos into pipelines and systems into something almost predictable.
   
 ### 🎙️ Talks & Conferences

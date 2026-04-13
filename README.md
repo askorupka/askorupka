@@ -116,7 +116,7 @@ I'm occassionally taking a small group of mentees. Interested? Contact below.
 ## 📬 Contact?
 
 > “Would you tell me, please, which way I ought to go from here?”  
-> "That depends a good deal on where you want to get to."
+> "That depends a good deal on where you want to get to."  
 > — Lewis Carroll
 
 DMs open ( [LinkedIn](https://www.linkedin.com/in/agataskorupka/) ). Or just follow the grin.

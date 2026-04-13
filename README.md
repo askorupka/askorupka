@@ -92,7 +92,7 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 - 🧬 [PLOS ONE Publication - Detecting Anomalies in Graph Networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315849)  
   PhD research on patterns, anomalies, and a bit of mathematical madness.
 
-- 🕸️ [Journal of Complex Networks - Unsupervised Framework for Evaluating Structural Node Embeddings of Graphs]
+- 🕸️ [Journal of Complex Networks - Unsupervised Framework for Evaluating Structural Node Embeddings of Graphs](https://academic.oup.com/comnet/article-abstract/12/2/cnae003/7612927?login=false)
   A framework for judging embeddings by how well they preserve the hidden geometry of networks (co-authored).
   
 - 🧩 [Journal of Big Data - Detecting bots in social-networks using node and structural embeddings](https://link.springer.com/article/10.1186/s40537-023-00796-3)

@@ -4,33 +4,6 @@
 > *"Oh, you can’t help that," said the Cat: "we’re all mad here."*  
 > — Lewis Carroll, *Alice’s Adventures in Wonderland*
 
-## 🐾 Who am I?
-
-Just a smiling cat in the endless garden of code.  
-A PhD in the art of making sense of the nonsensical - from unstructured data and graph networks to cloud infrastructure.  
-A fan of the beautiful, the broken, and the bizarre - sometimes all at once.
-
-- 🎓 Mentor of curious minds and reluctant adventurers
-- 🧭 Steering the ship as a head of studies @ [Akademia Leona Koźmińskiego](https://www.kozminski.edu.pl/)
-- 🧩 Orchestrator of organized chaos
-- 🏗️ Designer of systems - and occasional rewriter of legacy tales
-- 🐧 Fluent in YAML, bash, and existential dread  
-- 🐛 Debugger of the invisible and the inexplicable  
-- ☁️ Cloud-wanderer (AWS, k8s, and beyond)  
-- 🔄 Automating the madness, one CI/CD pipeline at a time  
-
-## 🧠 What I do
-
-I keep the madness running smoothly.  
-Infrastructure as code, logs as prophecy, and uptime as art.
-
-- Designing systems that survive both traffic and time
-- Terraforming my way through reality  
-- Taming containers and chasing pods  
-- Building pipelines that (almost) never break  
-- Writing scripts that do the job *and* smile doing it
-- Guiding others through the maze (without stealing the fun of getting lost) 
-
 ## 🔗 Links & Lore
 
 - 📝 [Personal blog on Medium](https://medium.com/@agata.skorupka) – DevOps, thoughts, and grinning metaphors  
@@ -98,10 +71,6 @@ Infrastructure as code, logs as prophecy, and uptime as art.
 - 🧩 [Journal of Big Data - Detecting bots in social-networks using node and structural embeddings](https://link.springer.com/article/10.1186/s40537-023-00796-3)  
   Not all users are human - some just pretend better than others. A graph-based approach to spotting bots by the patterns they can’t quite fake (co-authored).
 
-## 💭 Philosophy
-
-Sometimes the best uptime is found through delightful uncertainty.  
-I build like the Cheshire Cat smiles: quietly, curiously, and occasionally fading into thin air.
 
 ## 🧭 Mentoring & Guidance
 

@@ -42,7 +42,7 @@ Infrastructure as code, logs as prophecy, and uptime as art.
   
   &nbsp;&nbsp;&nbsp;☸️ **Kubernetes**: CKA, CKAD, CKS
 
-## 🎓 Studies I Guide
+### 🎓 Studies I Guide
 
 - 🐍 [Python Data Science Engineer](https://www.kozminski.edu.pl/pl/oferta-edukacyjna/studia-podyplomowe/python-data-science-engineer-e-learning-plus)  
   Teaching machines to see patterns where others see noise.
